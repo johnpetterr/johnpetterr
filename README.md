@@ -20,7 +20,7 @@
 
 <br><br>
 
-- :school: Eu sou '`Junior`' na [Universidade Presbiteriana Mackenzie](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Suez Canal University](http://suez.edu.eg/ar/).
+- :school: Eu sou '`Junior`' na [Universidade Presbiteriana Mackenzie](https://www.mackenzie.br/).
 - :technologist: Adoro usar Software como solução para cada `Problema`.
 - :student: Atualmente estou aprendendo `Análise e Desenvolvimento de Sistemas` and `Engenharia de Software`.
 - :nerd_face: Sempre `aprendendo coisas novas`!
