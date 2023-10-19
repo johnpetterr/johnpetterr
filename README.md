@@ -10,7 +10,6 @@
 </p>
 
 ## <picture><img src="https://github.com/joaocorleone/joaocorleone/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> Sobre mim
-
 <picture>
   <img align="right" src="https://github.com/joaocorleone/joaocorleone/blob/main/Images/Right_Side.gif?raw=true" width="250px">
 </picture>
@@ -23,6 +22,7 @@
 - :mage_man: Eu atualmente atuo como `Engenheiro de Software` no [Mercado Livre](https://www.mercadolivre.com.br/).
 
 <br>
+
 ## <picture><img src="https://github.com/joaocorleone/joaocorleone/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"></picture> Vamos fazer Networking!
 <p align="center">
 	<a href="mailto:juaocorleone@gmail.com">
@@ -169,7 +169,6 @@
 </p>
 
 ## <picture><img src="https://github.com/joaocorleone/joaocorleone/blob/main/Images/Statistics.gif?raw=true" width="50px"></picture> Estatísticas do GitHub
-
 <details>
   <summary>
     <h3>🔥 Streaks</h3>
