@@ -15,11 +15,11 @@
 </picture>
 <br><br>
 
-- :school: Eu sou '`Junior`' na [Universidade Presbiteriana Mackenzie](https://www.mackenzie.br/).
-- :technologist: Adoro usar Software como solução para cada `problema`.
-- :student: Atualmente estou aprendendo `Análise e Desenvolvimento de Sistemas` and `Engenharia de Software`.
+- :school: Eu sou '`Júnior`' na [Universidade Presbiteriana Mackenzie](https://www.mackenzie.br/).
+- :technologist: Sempre digo que eu não encontro `bugs`, eles que me encontram onde quer que eu vá haha.
+- :student: Atualmente estou me formando em `Análise e Desenvolvimento de Sistemas`.
 - :nerd_face: Sempre `aprendendo coisas novas`!
-- :mage_man: Eu atualmente atuo como `Engenheiro de Software` no [Mercado Livre](https://www.mercadolivre.com.br/).
+- :mage_man: Eu estou atuando como `Engenheiro de Software Pleno` no [Mercado Livre](https://www.mercadolivre.com.br/).
 
 <br>
 
