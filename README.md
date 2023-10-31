@@ -17,8 +17,9 @@
 
 - :school: Eu sou '`Júnior`' na [Universidade Presbiteriana Mackenzie](https://www.mackenzie.br/).
 - :technologist: Sempre digo que eu não encontro `bugs`, eles que me encontram onde quer que eu vá haha.
-- :student: Atualmente estou me formando em `Análise e Desenvolvimento de Sistemas`.
 - :nerd_face: Sempre `aprendendo coisas novas`!
+- :student: Atualmente estou me formando em `Análise e Desenvolvimento de Sistemas`.
+- :pirate_flag: Um fã do maior anime de todos os tempos, o `One Piece`!
 - :mage_man: Eu estou atuando como `Engenheiro de Software Pleno` no [Mercado Livre](https://www.mercadolivre.com.br/).
 
 <br>
