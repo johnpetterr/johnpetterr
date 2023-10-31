@@ -6,12 +6,12 @@
 </p>
 <br>
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=joaocorleone&label=Numero+de+Visitas&color=blue&style=flat" alt="joaocorleone" height="25px" width="160px"/> 
+	<img src="https://komarev.com/ghpvc/?username=the-mugiwara&label=Numero+de+Visitas&color=blue&style=flat" alt="the-mugiwara" height="25px" width="160px"/> 
 </p>
 
-## <picture><img src="https://github.com/joaocorleone/joaocorleone/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> Sobre mim
+## <picture><img src="https://github.com/the-mugiwara/the-mugiwara/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> Sobre mim
 <picture>
-  <img align="right" src="https://github.com/joaocorleone/joaocorleone/blob/main/Images/Right_Side.gif?raw=true" width="250px">
+  <img align="right" src="https://github.com/the-mugiwara/the-mugiwara/blob/main/Images/Right_Side.gif?raw=true" width="250px">
 </picture>
 <br><br>
 
@@ -23,12 +23,12 @@
 
 <br>
 
-## <picture><img src="https://github.com/joaocorleone/joaocorleone/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"></picture> Vamos fazer Networking!
+## <picture><img src="https://github.com/the-mugiwara/the-mugiwara/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"></picture> Vamos fazer Networking!
 <p align="center">
 	<a href="mailto:juaocorleone@gmail.com">
     <img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-	<a href="https://github.com/joaocorleone">
+	<a href="https://github.com/the-mugiwara">
     <img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 	<a href="https://wa.me/11986111238">
@@ -41,7 +41,7 @@
 
 <!-- ## 🛠️ Minhas Habilidades
 
-### <picture> <img src = "https://github.com/joaocorleone/joaocorleone/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Linguagens de Programação
+### <picture> <img src = "https://github.com/the-mugiwara/the-mugiwara/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Linguagens de Programação
 
 <p align="center">
   &emsp;
@@ -66,7 +66,7 @@
   </a>
 </p>
 
-### <picture> <img src = "https://github.com/joaocorleone/joaocorleone/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
+### <picture> <img src = "https://github.com/the-mugiwara/the-mugiwara/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
 <p align="center">
   &emsp;
   <a href="https://www.w3.org/html/" target="_blank">
@@ -86,7 +86,7 @@
    </a>
 </p>
 
- ### <picture> <img src = "https://github.com/joaocorleone/joaocorleone/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
+ ### <picture> <img src = "https://github.com/the-mugiwara/the-mugiwara/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
 
 <p align="center">
   &emsp;
@@ -115,7 +115,7 @@
     <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
 </p>
 
- ### <picture> <img src = "https://github.com/joaocorleone/joaocorleone/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
+ ### <picture> <img src = "https://github.com/the-mugiwara/the-mugiwara/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
 
 <p align="center">
   &emsp;
@@ -128,7 +128,7 @@
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
 </p>
 
- ### <picture> <img src = "https://github.com/joaocorleone/joaocorleone/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Competitive Programming & Problem Solving
+ ### <picture> <img src = "https://github.com/the-mugiwara/the-mugiwara/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Competitive Programming & Problem Solving
 
 <p align="center">
   &emsp;
@@ -145,7 +145,7 @@
     <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
 </p>
 
- ### <picture> <img src = "https://github.com/joaocorleone/joaocorleone/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
+ ### <picture> <img src = "https://github.com/the-mugiwara/the-mugiwara/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
 
 <p align="center">
   &emsp;
@@ -168,14 +168,14 @@
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt="Citação" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
 
-## <picture><img src="https://github.com/joaocorleone/joaocorleone/blob/main/Images/Statistics.gif?raw=true" width="50px"></picture> Estatísticas do GitHub
+## <picture><img src="https://github.com/the-mugiwara/the-mugiwara/blob/main/Images/Statistics.gif?raw=true" width="50px"></picture> Estatísticas do GitHub
 <details>
   <summary>
     <h3>🔥 Streaks</h3>
   </summary>
   ----
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaocorleone&theme=tokyonight_duo" alt="joaocorleone"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=the-mugiwara&theme=tokyonight_duo" alt="the-mugiwara"/>
   </p>
 </details>
   
@@ -188,9 +188,9 @@
   
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="joaocorleone's Github Stats" src="https://github-readme-stats.vercel.app/api?username=joaocorleone&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
+      <img alt="the-mugiwara's Github Stats" src="https://github-readme-stats.vercel.app/api?username=the-mugiwara&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
     </a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaocorleone&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="joaocorleone" height="230px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=the-mugiwara&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="the-mugiwara" height="230px"/>
     <br>
     <b>Nota:</b>
     As principais linguagens são apenas uma métrica das linguagens em que meu código público consiste e não refletem experiência ou nível de habilidade.
@@ -206,7 +206,7 @@
 
   <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=joaocorleone&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="joaocorleone"/>
+      <img src="https://github-profile-trophy.vercel.app/?username=the-mugiwara&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="the-mugiwara"/>
     </a>
   </p>
 </details>
@@ -218,65 +218,65 @@
 	
 <div>
   <p align="center">
-	<a href="https://github.com/joaocorleone/LeetCode_DailyChallenge_2023">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=joaocorleone&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/the-mugiwara/LeetCode_DailyChallenge_2023">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=the-mugiwara&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/joaocorleone/Ahmed-Hossam">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=joaocorleone&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/the-mugiwara/Ahmed-Hossam">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=the-mugiwara&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/joaocorleone/Strees_Testing">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=joaocorleone&repo=Strees_Testing&theme=tokyonight" alt="GitHub Stats" />
+    	<a href="https://github.com/the-mugiwara/Strees_Testing">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=the-mugiwara&repo=Strees_Testing&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/joaocorleone/CP-Templates">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=joaocorleone&repo=CP-Templates&theme=tokyonight" alt="GitHub Stats" />
+    	<a href="https://github.com/the-mugiwara/CP-Templates">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=the-mugiwara&repo=CP-Templates&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/joaocorleone/Codeforces-Polygon-Template">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=joaocorleone&repo=Codeforces-Polygon-Template&theme=tokyonight" alt="GitHub Stats" />
+    	<a href="https://github.com/the-mugiwara/Codeforces-Polygon-Template">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=the-mugiwara&repo=Codeforces-Polygon-Template&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/joaocorleone/Some-Linux-Commands">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=joaocorleone&repo=Some-Linux-Commands&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/the-mugiwara/Some-Linux-Commands">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=the-mugiwara&repo=Some-Linux-Commands&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/joaocorleone/Shorten-Link">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=joaocorleone&repo=Shorten-Link&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/the-mugiwara/Shorten-Link">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=the-mugiwara&repo=Shorten-Link&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/joaocorleone/joaocorleone">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=joaocorleone&repo=joaocorleone&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/the-mugiwara/the-mugiwara">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=the-mugiwara&repo=the-mugiwara&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/joaocorleone/Competitive-Programming-Session-Content">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=joaocorleone&repo=Competitive-Programming-Session-Content&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/the-mugiwara/Competitive-Programming-Session-Content">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=the-mugiwara&repo=Competitive-Programming-Session-Content&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/joaocorleone/VS-Code-for-CP">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=joaocorleone&repo=VS-Code-for-CP&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/the-mugiwara/VS-Code-for-CP">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=the-mugiwara&repo=VS-Code-for-CP&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/joaocorleone/Sorting-Algorithms">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=joaocorleone&repo=Sorting-Algorithms&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/the-mugiwara/Sorting-Algorithms">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=the-mugiwara&repo=Sorting-Algorithms&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/joaocorleone/board-link-generator">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=joaocorleone&repo=board-link-generator&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/the-mugiwara/board-link-generator">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=the-mugiwara&repo=board-link-generator&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/joaocorleone/Tic-Tac-Toe-GUI">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=joaocorleone&repo=Tic-Tac-Toe-GUI&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/the-mugiwara/Tic-Tac-Toe-GUI">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=the-mugiwara&repo=Tic-Tac-Toe-GUI&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/joaocorleone/PhoneBook-System">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=joaocorleone&repo=PhoneBook-System&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/the-mugiwara/PhoneBook-System">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=the-mugiwara&repo=PhoneBook-System&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/joaocorleone/Codeforces-Sheet-Generator">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=joaocorleone&repo=Codeforces-Sheet-Generator&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/the-mugiwara/Codeforces-Sheet-Generator">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=the-mugiwara&repo=Codeforces-Sheet-Generator&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/joaocorleone/CP-Calendar">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=joaocorleone&repo=CP-Calendar&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/the-mugiwara/CP-Calendar">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=the-mugiwara&repo=CP-Calendar&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/joaocorleone/Codeforces-Friends-Script">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=joaocorleone&repo=Codeforces-Friends-Script&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/the-mugiwara/Codeforces-Friends-Script">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=the-mugiwara&repo=Codeforces-Friends-Script&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/joaocorleone/vJudge-Board-Scrapper">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=joaocorleone&repo=vJudge-Board-Scrapper&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/the-mugiwara/vJudge-Board-Scrapper">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=the-mugiwara&repo=vJudge-Board-Scrapper&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/joaocorleone/CP-Templates-Snippets">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=joaocorleone&repo=CP-Templates-Snippets&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/the-mugiwara/CP-Templates-Snippets">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=the-mugiwara&repo=CP-Templates-Snippets&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/joaocorleone/Udemy-Website">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=joaocorleone&repo=Udemy-Website&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/the-mugiwara/Udemy-Website">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=the-mugiwara&repo=Udemy-Website&theme=tokyonight" alt="GitHub Stats" />
     	</a>
   </p>
 </div>
@@ -289,8 +289,8 @@
 
 <p align="center">
 	<picture>
-		  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaocorleone/joaocorleone/output/github-contribution-grid-snake-dark.svg">
-		  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaocorleone/joaocorleone/output/github-contribution-grid-snake.svg">
-		  <img alt="Jogo da cobrinha comendo meus commits!" src="https://raw.githubusercontent.com/joaocorleone/joaocorleone/output/github-contribution-grid-snake.svg">
+		  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/the-mugiwara/the-mugiwara/output/github-contribution-grid-snake-dark.svg">
+		  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/the-mugiwara/the-mugiwara/output/github-contribution-grid-snake.svg">
+		  <img alt="Jogo da cobrinha comendo meus commits!" src="https://raw.githubusercontent.com/the-mugiwara/the-mugiwara/output/github-contribution-grid-snake.svg">
 	</picture>
 </p>
