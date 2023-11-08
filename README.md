@@ -26,7 +26,7 @@
 
 ## <picture><img src="https://github.com/joao-pdro/joao-pdro/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"></picture> Vamos fazer Networking!
 <p align="center">
-	<a href="mailto:juaocorleone@gmail.com">
+	<a href="mailto:joaopdro@proton.me">
     <img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 	<a href="https://github.com/joao-pdro">
@@ -35,7 +35,7 @@
 	<a href="https://wa.me/11986111238">
     <img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/>
   </a>
-	<a href="https://www.linkedin.com/in/joacgomes/">
+	<a href="https://www.linkedin.com/in/joaopdro/">
     <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
@@ -174,7 +174,9 @@
   <summary>
     <h3>🔥 Streaks</h3>
   </summary>
+	
   ----
+	
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=joao-pdro&theme=tokyonight_duo" alt="joao-pdro"/>
   </p>
