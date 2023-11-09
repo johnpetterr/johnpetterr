@@ -6,12 +6,12 @@
 </p>
 <br>
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=joao-pdro&label=Numero+de+Visitas&color=blue&style=flat" alt="joao-pdro" height="25px" width="160px"/> 
+	<img src="https://komarev.com/ghpvc/?username=johnpetterr&label=Numero+de+Visitas&color=blue&style=flat" alt="johnpetterr" height="25px" width="160px"/> 
 </p>
 
-## <picture><img src="https://github.com/joao-pdro/joao-pdro/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> Sobre mim
+## <picture><img src="https://github.com/johnpetterr/johnpetterr/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> Sobre mim
 <picture>
-  <img align="right" src="https://github.com/joao-pdro/joao-pdro/blob/main/Images/Right_Side.gif?raw=true" width="250px">
+  <img align="right" src="https://github.com/johnpetterr/johnpetterr/blob/main/Images/Right_Side.gif?raw=true" width="250px">
 </picture>
 <br><br>
 
@@ -24,12 +24,12 @@
 
 <br>
 
-## <picture><img src="https://github.com/joao-pdro/joao-pdro/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"></picture> Vamos fazer Networking!
+## <picture><img src="https://github.com/johnpetterr/johnpetterr/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"></picture> Vamos fazer Networking!
 <p align="center">
 	<a href="mailto:joaopdro@proton.me">
     <img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-	<a href="https://github.com/joao-pdro">
+	<a href="https://github.com/johnpetterr">
     <img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 	<a href="https://wa.me/11986111238">
@@ -42,7 +42,7 @@
 
 <!-- ## 🛠️ Minhas Habilidades
 
-### <picture> <img src = "https://github.com/joao-pdro/joao-pdro/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Linguagens de Programação
+### <picture> <img src = "https://github.com/johnpetterr/johnpetterr/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Linguagens de Programação
 
 <p align="center">
   &emsp;
@@ -67,7 +67,7 @@
   </a>
 </p>
 
-### <picture> <img src = "https://github.com/joao-pdro/joao-pdro/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
+### <picture> <img src = "https://github.com/johnpetterr/johnpetterr/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
 <p align="center">
   &emsp;
   <a href="https://www.w3.org/html/" target="_blank">
@@ -87,7 +87,7 @@
    </a>
 </p>
 
- ### <picture> <img src = "https://github.com/joao-pdro/joao-pdro/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
+ ### <picture> <img src = "https://github.com/johnpetterr/johnpetterr/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
 
 <p align="center">
   &emsp;
@@ -116,7 +116,7 @@
     <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
 </p>
 
- ### <picture> <img src = "https://github.com/joao-pdro/joao-pdro/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
+ ### <picture> <img src = "https://github.com/johnpetterr/johnpetterr/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
 
 <p align="center">
   &emsp;
@@ -129,7 +129,7 @@
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
 </p>
 
- ### <picture> <img src = "https://github.com/joao-pdro/joao-pdro/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Competitive Programming & Problem Solving
+ ### <picture> <img src = "https://github.com/johnpetterr/johnpetterr/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Competitive Programming & Problem Solving
 
 <p align="center">
   &emsp;
@@ -146,7 +146,7 @@
     <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
 </p>
 
- ### <picture> <img src = "https://github.com/joao-pdro/joao-pdro/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
+ ### <picture> <img src = "https://github.com/johnpetterr/johnpetterr/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
 
 <p align="center">
   &emsp;
@@ -169,7 +169,7 @@
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt="Citação" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
 
-## <picture><img src="https://github.com/joao-pdro/joao-pdro/blob/main/Images/Statistics.gif?raw=true" width="50px"></picture> Estatísticas do GitHub
+## <picture><img src="https://github.com/johnpetterr/johnpetterr/blob/main/Images/Statistics.gif?raw=true" width="50px"></picture> Estatísticas do GitHub
 <details>
   <summary>
     <h3>🔥 Streaks</h3>
@@ -178,7 +178,7 @@
   ----
 	
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=joao-pdro&theme=tokyonight_duo" alt="joao-pdro"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnpetterr&theme=tokyonight_duo" alt="johnpetterr"/>
   </p>
 </details>
   
@@ -191,9 +191,9 @@
   
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="joao-pdro's Github Stats" src="https://github-readme-stats.vercel.app/api?username=joao-pdro&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
+      <img alt="johnpetterr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=johnpetterr&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
     </a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joao-pdro&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="joao-pdro" height="230px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=johnpetterr&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="johnpetterr" height="230px"/>
     <br>
     <b>Nota:</b>
     As principais linguagens são apenas uma métrica das linguagens em que meu código público consiste e não refletem experiência ou nível de habilidade.
@@ -209,7 +209,7 @@
 
   <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=joao-pdro&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="joao-pdro"/>
+      <img src="https://github-profile-trophy.vercel.app/?username=johnpetterr&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="johnpetterr"/>
     </a>
   </p>
 </details>
@@ -221,65 +221,65 @@
 	
 <div>
   <p align="center">
-	<a href="https://github.com/joao-pdro/LeetCode_DailyChallenge_2023">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=joao-pdro&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/johnpetterr/LeetCode_DailyChallenge_2023">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=johnpetterr&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/joao-pdro/Ahmed-Hossam">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=joao-pdro&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/johnpetterr/Ahmed-Hossam">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=johnpetterr&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/joao-pdro/Strees_Testing">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=joao-pdro&repo=Strees_Testing&theme=tokyonight" alt="GitHub Stats" />
+    	<a href="https://github.com/johnpetterr/Strees_Testing">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=johnpetterr&repo=Strees_Testing&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/joao-pdro/CP-Templates">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=joao-pdro&repo=CP-Templates&theme=tokyonight" alt="GitHub Stats" />
+    	<a href="https://github.com/johnpetterr/CP-Templates">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=johnpetterr&repo=CP-Templates&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/joao-pdro/Codeforces-Polygon-Template">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=joao-pdro&repo=Codeforces-Polygon-Template&theme=tokyonight" alt="GitHub Stats" />
+    	<a href="https://github.com/johnpetterr/Codeforces-Polygon-Template">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=johnpetterr&repo=Codeforces-Polygon-Template&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/joao-pdro/Some-Linux-Commands">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=joao-pdro&repo=Some-Linux-Commands&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/johnpetterr/Some-Linux-Commands">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=johnpetterr&repo=Some-Linux-Commands&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/joao-pdro/Shorten-Link">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=joao-pdro&repo=Shorten-Link&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/johnpetterr/Shorten-Link">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=johnpetterr&repo=Shorten-Link&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/joao-pdro/joao-pdro">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=joao-pdro&repo=joao-pdro&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/johnpetterr/johnpetterr">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=johnpetterr&repo=johnpetterr&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/joao-pdro/Competitive-Programming-Session-Content">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=joao-pdro&repo=Competitive-Programming-Session-Content&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/johnpetterr/Competitive-Programming-Session-Content">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=johnpetterr&repo=Competitive-Programming-Session-Content&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/joao-pdro/VS-Code-for-CP">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=joao-pdro&repo=VS-Code-for-CP&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/johnpetterr/VS-Code-for-CP">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=johnpetterr&repo=VS-Code-for-CP&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/joao-pdro/Sorting-Algorithms">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=joao-pdro&repo=Sorting-Algorithms&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/johnpetterr/Sorting-Algorithms">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=johnpetterr&repo=Sorting-Algorithms&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/joao-pdro/board-link-generator">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=joao-pdro&repo=board-link-generator&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/johnpetterr/board-link-generator">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=johnpetterr&repo=board-link-generator&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/joao-pdro/Tic-Tac-Toe-GUI">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=joao-pdro&repo=Tic-Tac-Toe-GUI&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/johnpetterr/Tic-Tac-Toe-GUI">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=johnpetterr&repo=Tic-Tac-Toe-GUI&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/joao-pdro/PhoneBook-System">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=joao-pdro&repo=PhoneBook-System&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/johnpetterr/PhoneBook-System">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=johnpetterr&repo=PhoneBook-System&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/joao-pdro/Codeforces-Sheet-Generator">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=joao-pdro&repo=Codeforces-Sheet-Generator&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/johnpetterr/Codeforces-Sheet-Generator">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=johnpetterr&repo=Codeforces-Sheet-Generator&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/joao-pdro/CP-Calendar">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=joao-pdro&repo=CP-Calendar&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/johnpetterr/CP-Calendar">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=johnpetterr&repo=CP-Calendar&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/joao-pdro/Codeforces-Friends-Script">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=joao-pdro&repo=Codeforces-Friends-Script&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/johnpetterr/Codeforces-Friends-Script">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=johnpetterr&repo=Codeforces-Friends-Script&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/joao-pdro/vJudge-Board-Scrapper">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=joao-pdro&repo=vJudge-Board-Scrapper&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/johnpetterr/vJudge-Board-Scrapper">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=johnpetterr&repo=vJudge-Board-Scrapper&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/joao-pdro/CP-Templates-Snippets">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=joao-pdro&repo=CP-Templates-Snippets&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/johnpetterr/CP-Templates-Snippets">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=johnpetterr&repo=CP-Templates-Snippets&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/joao-pdro/Udemy-Website">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=joao-pdro&repo=Udemy-Website&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/johnpetterr/Udemy-Website">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=johnpetterr&repo=Udemy-Website&theme=tokyonight" alt="GitHub Stats" />
     	</a>
   </p>
 </div>
@@ -292,8 +292,8 @@
 
 <p align="center">
 	<picture>
-		  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joao-pdro/joao-pdro/output/github-contribution-grid-snake-dark.svg">
-		  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joao-pdro/joao-pdro/output/github-contribution-grid-snake.svg">
-		  <img alt="Jogo da cobrinha comendo meus commits!" src="https://raw.githubusercontent.com/joao-pdro/joao-pdro/output/github-contribution-grid-snake.svg">
+		  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/johnpetterr/johnpetterr/output/github-contribution-grid-snake-dark.svg">
+		  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/johnpetterr/johnpetterr/output/github-contribution-grid-snake.svg">
+		  <img alt="Jogo da cobrinha comendo meus commits!" src="https://raw.githubusercontent.com/johnpetterr/johnpetterr/output/github-contribution-grid-snake.svg">
 	</picture>
 </p>
